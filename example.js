@@ -23,3 +23,14 @@ let pos = array.indexOf("peach")
 console.log(...array, pos) 
 // kiwi peach dorian loquat 1
 
+const str24 = "something \n something else"
+console.log(str24.indexOf("thing"))
+console.log(str24.split(' ')) 
+// [ 'something', '\n', 'something', 'else' ]
+
+const str25 = str24.replace("something", "awesome").replace("\n", "")
+console.log(str25) // 
+
+
+const str26 = str24.rep("something", "awesome")
+console.log(str26)
