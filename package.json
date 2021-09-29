@@ -1,0 +1,13 @@
+{
+  "name": "class-practice",
+  "version": "1.0.0",
+  "description": "having fun",
+  "main": "index.js",
+  "repository": "https://github.com/dariedorlus/hello-js.git",
+  "author": "dariedorlus <5068919+dariedorlus@users.noreply.github.com>",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
