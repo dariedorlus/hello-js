@@ -1,0 +1,16 @@
+{
+  "name": "mysql-meet-js-2",
+  "version": "0.0.1",
+  "description": "feeling good like i should",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Tda Dorlus",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "mysql": "^2.18.1"
+  }
+}
