@@ -98,3 +98,11 @@ const nicePyramidSolver = async (rowCount, print) => {
 }
 
 nicePyramidSolver(5, "#")
+
+test("", ()=> {
+    //Arrange
+
+    //Act
+
+    //Assert
+})
